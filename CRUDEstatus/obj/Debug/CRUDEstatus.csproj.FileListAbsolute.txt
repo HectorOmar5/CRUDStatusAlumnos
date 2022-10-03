@@ -1,0 +1,8 @@
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\CRUDEstatus.exe.config
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\CRUDEstatus.exe
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\CRUDEstatus.pdb
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\CRUDEstatus.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\CRUDEstatus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\CRUDEstatus.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\CRUDEstatus.exe
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\CRUDEstatus.pdb

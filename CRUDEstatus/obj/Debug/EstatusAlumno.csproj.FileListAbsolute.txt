@@ -1,0 +1,17 @@
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\EstatusAlumno.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\EstatusAlumno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\EstatusAlumno.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\CRUDEstatus.exe
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\CRUDEstatus.pdb
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\CRUDEstatus.exe.config
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\CRUDEstatus.exe
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\CRUDEstatus.pdb
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\System.Security.Permissions.dll
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\System.Security.Permissions.xml
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Tichs\source\C#\CRUDEstatus\CRUDEstatus\obj\Debug\EstatusAlumno.csproj.CopyComplete
